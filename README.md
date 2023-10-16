@@ -1,2 +1,2 @@
 # e-commerce_clone
-Making an e-commerce website with HTML,CSS and javascript
+This is a repo for a food delivery app clone made using HTML,CSS, Javascript and React
